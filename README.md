@@ -1,5 +1,5 @@
 
-Video Presentation - https://drive.google.com/file/d/1RxasVGvGepKjFa2nSCwg_1_v3sgB73Cb/view?usp=sharing
+Video Presentation - https://drive.google.com/file/d/1lCV_dJEO-whN49JxWjX3OmJ1D9tuaHw1/view?usp=sharing
 
 Overview: This project aims to help users make informed investment decisions aligned with their individual profiles and preferences.
 
